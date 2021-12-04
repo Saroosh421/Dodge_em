@@ -50,7 +50,7 @@ using namespace std;
 
 //================================================================================================================================================================//
 						// Functions are used to implement menu 
-						// Functions are also used for levels
+						// Functions are also used to implement levels
 
 	//Pause function is used to pause game during its play
 
